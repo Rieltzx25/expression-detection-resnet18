@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Web app — Node / Vite
+app/node_modules/
+app/dist/
+app/.env
+app/.env.local
+app/.vercel/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
